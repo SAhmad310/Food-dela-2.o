@@ -1,0 +1,43 @@
+{
+  "app": {
+    "name": "फ़ूडएक्सप्रेस",
+    "slogan": "स्वादिष्ट भोजन तेजी से डिलीवर",
+    "tagline": "आपके पसंदीदा रेस्तरां, आपके द्वार पर"
+  },
+  "navigation": {
+    "home": "होम",
+    "restaurants": "रेस्तरां",
+    "orders": "मेरे ऑर्डर",
+    "cart": "कार्ट",
+    "profile": "प्रोफ़ाइल",
+    "logout": "लॉगआउट",
+    "login": "लॉगिन",
+    "register": "रजिस्टर"
+  },
+  "auth": {
+    "login": "लॉगिन करें",
+    "register": "रजिस्टर करें",
+    "email": "ईमेल",
+    "password": "पासवर्ड",
+    "confirm_password": "पासवर्ड की पुष्टि करें",
+    "name": "पूरा नाम",
+    "phone": "फ़ोन नंबर",
+    "forgot_password": "पासवर्ड भूल गए?",
+    "no_account": "खाता नहीं है?",
+    "has_account": "पहले से ही खाता है?",
+    "login_success": "लॉगिन सफल!",
+    "register_success": "रजिस्ट्रेशन सफल!"
+  },
+  "restaurant": {
+    "categories": "श्रेणियाँ",
+    "delivery_time": "डिलीवरी समय",
+    "min_order": "न्यूनतम ऑर्डर",
+    "rating": "रेटिंग",
+    "cuisine": "खानपान",
+    "view_menu": "मेनू देखें",
+    "add_to_cart": "कार्ट में जोड़ें",
+    "special_instructions": "विशेष निर्देश",
+    "popular_items": "लोकप्रिय आइटम",
+    "recommended": "आपके लिए अनुशंसित"
+  }
+}
